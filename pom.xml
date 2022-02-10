@@ -33,7 +33,7 @@
     <inceptionYear>2014-2019</inceptionYear>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <hibernate.version>5.2.18.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <spring.version>5.0.13.RELEASE</spring.version>
         <spring-boot.version>2.0.9.RELEASE</spring-boot.version>
         <spring-data.version>2.0.14.RELEASE</spring-data.version>
